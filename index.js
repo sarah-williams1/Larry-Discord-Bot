@@ -33,6 +33,8 @@ for (const file of commandFiles) {
 // Data storage for global config and users
 let serverData = {
     globalConfig: {
+        battalionName: "Leviathan Battalion",
+        companyName: "Aegis Company",
         ribbonTypes: {
             "Fleet Campaign": { loyaltyGain: 5, superCreditPayout: 5 },
             "Super Fleet Campaign": { loyaltyGain: 15, superCreditPayout: 15 },

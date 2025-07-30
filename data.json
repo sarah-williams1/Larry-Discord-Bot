@@ -1,5 +1,7 @@
 {
   "globalConfig": {
+    "battalionName": "Leviathan Battalion",
+    "companyName": "Aegis Company",
     "ribbonTypes": {
       "Fleet Campaign": {
         "loyaltyGain": 5,
@@ -83,11 +85,36 @@
     "352501834272866334": {
       "totalSamples": 0,
       "freedomLevel": 0,
-      "superCredits": 0,
+      "superCredits": 28,
       "debt": 0,
       "loyalty": 100,
       "titles": [],
-      "lastActive": 1753898216290,
+      "lastActive": 1753899522225,
+      "ribbons": {
+        "Fleet Marksman": 1,
+        "Fleet Campaign": 5
+      }
+    },
+    "615677276419391493": {
+      "totalSamples": 69,
+      "freedomLevel": 69,
+      "superCredits": 11,
+      "debt": 10000,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753898827658,
+      "ribbons": {
+        "Good Conduct": 1
+      }
+    },
+    "470413415932887051": {
+      "totalSamples": 69,
+      "freedomLevel": 69,
+      "superCredits": 6,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753899767382,
       "ribbons": {}
     }
   }

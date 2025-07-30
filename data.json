@@ -85,27 +85,39 @@
     "352501834272866334": {
       "totalSamples": 0,
       "freedomLevel": 0,
-      "superCredits": 28,
+      "superCredits": 388,
       "debt": 0,
       "loyalty": 100,
       "titles": [],
-      "lastActive": 1753899522225,
+      "lastActive": 1753912271166,
       "ribbons": {
         "Fleet Marksman": 1,
-        "Fleet Campaign": 5
+        "Fleet Campaign": 6,
+        "Super Fleet Cross": 4,
+        "Fleet Cross": 6,
+        "Good Conduct": 1,
+        "Fleet Sharpshooter": 1,
+        "Fleet Expert Marksman": 1,
+        "Super Fleet Campaign": 1
       }
     },
     "615677276419391493": {
       "totalSamples": 69,
       "freedomLevel": 69,
-      "superCredits": 11,
+      "superCredits": 586,
       "debt": 10000,
       "loyalty": 100,
       "titles": [],
       "lastActive": 1753898827658,
       "ribbons": {
-        "Good Conduct": 1
-      }
+        "Good Conduct": 1,
+        "Super Fleet Cross": 6,
+        "Fleet Cross": 6,
+        "Super Fleet Campaign": 1,
+        "Fleet Campaign": 18,
+        "Medal of Honor": 1
+      },
+      "squadId": "squad-2"
     },
     "470413415932887051": {
       "totalSamples": 69,
@@ -115,7 +127,356 @@
       "loyalty": 100,
       "titles": [],
       "lastActive": 1753899767382,
+      "ribbons": {},
+      "squadId": "squad-3"
+    },
+    "979351500298018847": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 220,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902897188,
+      "ribbons": {
+        "Super Fleet Cross": 2,
+        "Fleet Cross": 1,
+        "Super Fleet Campaign": 1,
+        "Fleet Campaign": 7,
+        "Medal of Honor": 1
+      },
+      "squadId": "squad-1"
+    },
+    "714531596631539914": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 165,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902909350,
+      "ribbons": {
+        "Super Fleet Cross": 2,
+        "Fleet Cross": 2,
+        "Fleet Campaign": 3,
+        "Fleet Expert Marksman": 1
+      },
+      "squadId": "squad-1"
+    },
+    "318078199932125197": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902926339,
+      "ribbons": {},
+      "squadId": "squad-1"
+    },
+    "440011766773317662": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902935267,
+      "ribbons": {},
+      "squadId": "squad-1"
+    },
+    "277126833537941504": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902949070,
+      "ribbons": {},
+      "squadId": "squad-1"
+    },
+    "717023194023854134": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 50,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902962023,
+      "ribbons": {
+        "Fleet Cross": 2,
+        "Fleet Expert Marksman": 1
+      },
+      "squadId": "squad-1"
+    },
+    "330910275450699776": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902972216,
+      "ribbons": {},
+      "squadId": "squad-1"
+    },
+    "369328565705113604": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753902981236,
+      "ribbons": {},
+      "squadId": "squad-1"
+    },
+    "158645349412503552": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753912012718,
+      "ribbons": {},
+      "squadId": "squad-2"
+    },
+    "729290384567566376": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 150,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903232152,
+      "ribbons": {
+        "Super Fleet Cross": 1,
+        "Fleet Cross": 2,
+        "Fleet Campaign": 1,
+        "Medal of Honor": 1,
+        "Good Conduct": 1
+      },
+      "squadId": "squad-2"
+    },
+    "341346767012626443": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 188,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903283169,
+      "ribbons": {
+        "Fleet Expert Marksman": 1,
+        "Galactic Recruiter": 1,
+        "Fleet Campaign": 1,
+        "Fleet Cross": 6,
+        "Super Fleet Cross": 1
+      },
+      "squadId": "squad-2"
+    },
+    "277230721406468097": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 75,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903294324,
+      "ribbons": {
+        "Fleet Cross": 1,
+        "Fleet Campaign": 1,
+        "Medal of Honor": 1
+      },
+      "squadId": "squad-2"
+    },
+    "659929685979037697": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903307056,
+      "ribbons": {},
+      "squadId": "squad-2"
+    },
+    "605280713025257498": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 149,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903435259,
+      "ribbons": {
+        "Fleet Cross": 4,
+        "Fleet Campaign": 2,
+        "Medal of Honor": 1,
+        "Galactic Recruiter": 3
+      },
+      "squadId": "squad-2"
+    },
+    "166005442680455169": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903443191,
+      "ribbons": {},
+      "squadId": "squad-2"
+    },
+    "282644912426450944": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903481986,
+      "ribbons": {},
+      "squadId": "squad-3"
+    },
+    "584201877168717824": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903497955,
+      "ribbons": {},
+      "squadId": "squad-3"
+    },
+    "1340922394797412423": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 130,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903544720,
+      "ribbons": {
+        "Super Fleet Cross": 1,
+        "Fleet Cross": 2,
+        "Super Fleet Campaign": 1,
+        "Fleet Campaign": 5
+      },
+      "squadId": "squad-3"
+    },
+    "1372080590425161810": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903554021,
+      "ribbons": {},
+      "squadId": "squad-3"
+    },
+    "737402376050442345": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903564324,
+      "ribbons": {},
+      "squadId": "squad-3"
+    },
+    "219134867114295296": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 5,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753903574008,
+      "ribbons": {
+        "Fleet Campaign": 1
+      },
+      "squadId": "squad-3"
+    },
+    "960213725627953152": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 343,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753905634737,
+      "ribbons": {
+        "Super Fleet Cross": 3,
+        "Fleet Cross": 8,
+        "Fleet Campaign": 4,
+        "Galactic Recruiter": 1,
+        "Fleet Expert Marksman": 1
+      }
+    },
+    "553746586140672001": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 1703,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753905714549,
+      "ribbons": {
+        "Fleet Expert Marksman": 1,
+        "Terminid": 1,
+        "Automaton": 1,
+        "Fleet Commendation": 1,
+        "Galactic Recruiter": 1,
+        "Good Conduct": 1,
+        "Medal of Honor": 1,
+        "Fleet Campaign": 42,
+        "Super Fleet Campaign": 8,
+        "Fleet Cross": 25,
+        "Super Fleet Cross": 8
+      }
+    },
+    "723388072414412920": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 50,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753909176925,
+      "ribbons": {
+        "Super Fleet Cross": 1
+      }
+    },
+    "468636263864467456": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753910916003,
       "ribbons": {}
+    },
+    "1259694923847041109": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 1460,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753911441914,
+      "ribbons": {
+        "Super Fleet Cross": 1,
+        "Fleet Campaign": 3,
+        "Illuminate": 6,
+        "Super Fleet Campaign": 13
+      }
     }
   }
 }

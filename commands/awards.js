@@ -56,6 +56,49 @@ module.exports = {
             option.setName('award5_quantity')
                 .setDescription('Quantity for the 5th award (default 1).')
                 .setRequired(false))
+                .addStringOption(option =>
+            option.setName('award6_name')
+                .setDescription('Name of the 6th award to grant.')
+                .setRequired(false)
+                .setAutocomplete(true))
+        .addIntegerOption(option =>
+            option.setName('award6_quantity')
+                .setDescription('Quantity for the 6th award (default 1).')
+                .setRequired(false))
+                .addStringOption(option =>
+            option.setName('award_name')
+                .setDescription('Name of the 7th award to grant.')
+                .setRequired(false)
+                .setAutocomplete(true))
+        .addIntegerOption(option =>
+            option.setName('award7_quantity')
+                .setDescription('Quantity for the 7th award (default 1).')
+                .setRequired(false))
+                .addStringOption(option =>
+            option.setName('award8_name')
+                .setDescription('Name of the 8th award to grant.')
+                .setRequired(false)
+                .setAutocomplete(true))
+        .addIntegerOption(option =>
+            option.setName('award8_quantity')
+                .setDescription('Quantity for the 8th award (default 1).')
+                .setRequired(false)).addStringOption(option =>
+            option.setName('award9_name')
+                .setDescription('Name of the 9th award to grant.')
+                .setRequired(false)
+                .setAutocomplete(true))
+        .addIntegerOption(option =>
+            option.setName('award9_quantity')
+                .setDescription('Quantity for the 9th award (default 1).')
+                .setRequired(false)).addStringOption(option =>
+            option.setName('award10_name')
+                .setDescription('Name of the 10th award to grant.')
+                .setRequired(false)
+                .setAutocomplete(true))
+        .addIntegerOption(option =>
+            option.setName('award10_quantity')
+                .setDescription('Quantity for the 10th award (default 1).')
+                .setRequired(false))
         .setDefaultMemberPermissions(PermissionsBitField.Flags.ManageGuild),
 
     async execute(interaction, getUserData, saveServerData, getGlobalConfig) {

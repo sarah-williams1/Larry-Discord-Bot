@@ -1,0 +1,94 @@
+{
+  "globalConfig": {
+    "ribbonTypes": {
+      "Fleet Campaign": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Super Fleet Campaign": {
+        "loyaltyGain": 15,
+        "superCreditPayout": 15
+      },
+      "Automaton": {
+        "loyaltyGain": 200,
+        "superCreditPayout": 200
+      },
+      "Illuminate": {
+        "loyaltyGain": 200,
+        "superCreditPayout": 200
+      },
+      "Terminid": {
+        "loyaltyGain": 200,
+        "superCreditPayout": 200
+      },
+      "Fleet Cross": {
+        "loyaltyGain": 20,
+        "superCreditPayout": 20
+      },
+      "Super Fleet Cross": {
+        "loyaltyGain": 50,
+        "superCreditPayout": 50
+      },
+      "Fleet Achievement": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Fleet Commendation": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Galactic Recruiter": {
+        "loyaltyGain": 3,
+        "superCreditPayout": 3
+      },
+      "Galactic Defense": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Good Conduct": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Recruit Command": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Fleet Marksman": {
+        "loyaltyGain": 3,
+        "superCreditPayout": 3
+      },
+      "Fleet Sharpshooter": {
+        "loyaltyGain": 5,
+        "superCreditPayout": 5
+      },
+      "Fleet Expert Marksman": {
+        "loyaltyGain": 10,
+        "superCreditPayout": 10
+      },
+      "Freedom Alliance": {
+        "loyaltyGain": 10,
+        "superCreditPayout": 10
+      },
+      "Medal of Honor": {
+        "loyaltyGain": 50,
+        "superCreditPayout": 50
+      },
+      "Super Earth Defense": {
+        "loyaltyGain": 15,
+        "superCreditPayout": 15
+      }
+    }
+  },
+  "users": {
+    "352501834272866334": {
+      "totalSamples": 0,
+      "freedomLevel": 0,
+      "superCredits": 0,
+      "debt": 0,
+      "loyalty": 100,
+      "titles": [],
+      "lastActive": 1753897816817,
+      "ribbons": {}
+    }
+  }
+}

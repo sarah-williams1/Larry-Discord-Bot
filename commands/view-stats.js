@@ -16,9 +16,6 @@ module.exports = {
 
         const targetUser = interaction.options.getUser('user') || interaction.user;
         const targetUserData = getUserData(targetUser.id);
-         const userSquadId = targetUserData.squadId;
-        const displaySquadName = userSquadId ? (squadNames[userSquadId] || `Unknown Squad (${userSquadId})`) : 'Unassigned';
-
 
         let ribbonString = 'None yet';
         const earnedRibbons = Object.entries(targetUserData.ribbons);
@@ -31,7 +28,6 @@ module.exports = {
 
         await interaction.editReply(
             `${title}\n` +
-            'Squad: ${displaySquadName}\n' +
             `Total Samples Logged: ${targetUserData.totalSamples}\n` +
             `Current Freedom Level: ${targetUserData.freedomLevel}\n` +
             `Super Credits: ${targetUserData.superCredits}\n` +

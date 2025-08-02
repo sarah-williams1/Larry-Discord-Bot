@@ -2,6 +2,12 @@
   "globalConfig": {
     "battalionName": "Leviathan Battalion",
     "companyName": "Aegis Company",
+    "squadNames": {
+      "squad-1": "Creepers",
+      "squad-2": "Havoc Pandas",
+      "squad-3": "Diesel",
+      "staff": "Command Staff"
+    },
     "ribbonTypes": {
       "Fleet Campaign": {
         "loyaltyGain": 5,
@@ -89,7 +95,7 @@
       "debt": 0,
       "loyalty": 100,
       "titles": [],
-      "lastActive": 1753912271166,
+      "lastActive": 1753975159180,
       "ribbons": {
         "Fleet Marksman": 1,
         "Fleet Campaign": 6,

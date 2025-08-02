@@ -15,10 +15,10 @@ module.exports = {
                 .setDescription('The ID of the squad (e.g., squad-1, squad-2).')
                 .setRequired(true)
                 .addChoices( // Pre-defined choices for ease of use
-                    { name: 'Squad 1', value: 'squad-1' },
-                    { name: 'Squad 2', value: 'squad-2' },
-                    { name: 'Squad 3', value: 'squad-3' },
-                    { name: 'Unassigned', value: 'unassigned' } // Option to unassign
+                    { name: 'Squad 1: Creepers', value: 'squad-1' },
+                    { name: 'Squad 2: Havoc Pandas', value: 'squad-2' },
+                    { name: 'Squad 3: Diesel', value: 'squad-3' },
+                    { name: 'Command Staff', value: 'staff' } // Option to unassign
                 ))
         .setDefaultMemberPermissions(PermissionsBitField.Flags.ManageGuild), // Only members with Manage Guild permission
 

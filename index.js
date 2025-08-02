@@ -35,6 +35,12 @@ let serverData = {
     globalConfig: {
         battalionName: "Leviathan Battalion",
         companyName: "Aegis Company",
+        squadNames: {
+            "squad-1" : "Creepers",
+            "squad-2" : "Havoc Pandas",
+            "squad-3" : "Diesel",
+            "staff" : "Command Staff", 
+        },
         ribbonTypes: {
             "Fleet Campaign": { loyaltyGain: 5, superCreditPayout: 5 },
             "Super Fleet Campaign": { loyaltyGain: 15, superCreditPayout: 15 },
